@@ -1,0 +1,59 @@
+PREPAID
+  tanggal   |      produk      |   username    |   loket   |   upline    | lembar | jml_harga_modal | margin | transaksi_prepaid | tagihan_prepaid 
+------------+------------------+---------------+-----------+-------------+--------+-----------------+--------+-------------------+-----------------
+ 2016-11-07 | PLN Prepaid 2500 | adx1627182729 | M. Sholeh | adx16271827 |      6 |          920000 |   1200 |            935000 |          921200
+(1 row)
+
+POSTPAID
+  tanggal   |       produk       |   username    |   loket   |   upline    | lembar | jml_harga_modal | margin | transaksi_postpaid | tagihan_postpaid 
+------------+--------------------+---------------+-----------+-------------+--------+-----------------+--------+--------------------+------------------
+ 2016-11-07 | PLN Post Paid 2500 | adx1627182729 | M. Sholeh | adx16271827 |    126 |        32215115 |  25200 |           32530115 |         32240315
+(1 row)
+
+NONTAGLIST
+  tanggal   |        produk        |   username    |   loket   |   upline    | lembar | jml_harga_modal | margin | transaksi_nontaglist | tagihan_nontaglist 
+------------+----------------------+---------------+-----------+-------------+--------+-----------------+--------+----------------------+--------------------
+ 2016-11-07 | PLN Non Tag Lis 2500 | adx1627182729 | M. Sholeh | adi15120971 |      9 |        10604800 |   1800 |             10627300 |           10606600
+(1 row)
+
+GAME
+ tanggal | produk | username | loket | upline | lembar | jml_harga_modal | total_fee_game | transaksi | jml_tagihan_game 
+---------+--------+----------+-------+--------+--------+-----------------+----------------+-----------+------------------
+(0 rows)
+
+PULSA
+  tanggal   | produk |   username    |      loket      |   upline    | lembar | jml_harga_modal | total_fee_pulsa | transaksi | jml_tagihan_pulsa 
+------------+--------+---------------+-----------------+-------------+--------+-----------------+-----------------+-----------+-------------------
+ 2016-11-07 | Pulsa  | adx1627182729 | M. Sholeh       | adx16271827 |      1 |           19875 |             200 |     20275 |             20075
+ 2016-11-07 | Pulsa  | adx16271827   | Adxyogs Astoria | adxyogs     |     46 |         4255050 |            9200 |   4403900 |           4394700
+ 2016-11-07 | Pulsa  | adx16271827   | Bagus Wibowo    | adxyogs     |      1 |           10300 |             200 |     10600 |             10400
+ 2016-11-07 | Pulsa  | adx16271827   | YUDHIT KURNIA   | adxyogs     |      6 |           52175 |            1200 |     54175 |             52975
+(4 rows)
+
+PDAM
+ tanggal | produk | username | loket | upline | lembar | jml_harga_modal | total_fee_pdam | tagihan_pdam | jml_tagihan_pdam 
+---------+--------+----------+-------+--------+--------+-----------------+----------------+--------------+------------------
+(0 rows)
+
+TELKOM
+  tanggal   | produk |   username    |   loket   |   upline    | lembar | jml_harga_modal | total_fee_telkom | transaksi_telkom | tagihan_telkom 
+------------+--------+---------------+-----------+-------------+--------+-----------------+------------------+------------------+----------------
+ 2016-11-07 | Telkom | adi1512097267 | M. Sholeh | adi15120971 |     31 |         2953374 |            46500 |          3009174 |        2962674
+(1 row)
+
+BPJS
+  tanggal   |     produk     |   username    |   loket   |   upline    | lembar | jml_harga_modal | total_fee_bpjs | transaksi_bpjs | tagihan_bpjs 
+------------+----------------+---------------+-----------+-------------+--------+-----------------+----------------+----------------+--------------
+ 2016-11-07 | BPJS KESEHATAN | adi1512097267 | M. Sholeh | adi15120971 |     24 |         3845190 |          28800 |        3889590 |      3860790
+(1 row)
+
+MF
+ tanggal | produk | username | loket | upline | lembar | jml_harga_modal | transaksi_multifinance 
+---------+--------+----------+-------+--------+--------+-----------------+------------------------
+(0 rows)
+
+TV KABEL
+ tanggal | produk | username | loket | upline | lembar | jml_harga_modal | transaksi_tvkabel 
+---------+--------+----------+-------+--------+--------+-----------------+-------------------
+(0 rows)
+
