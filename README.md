@@ -1,2 +1,4 @@
-# parse_csv
-Parsing data dari file .csv menggunakan php
+# Parsing Data From CSV File Using PHP
+
+## About
+How to parse data from csv file into arrays using php
